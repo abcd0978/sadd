@@ -1,16 +1,18 @@
 {
-  "posts":[
+  "posts": [
     {
-      "id" : 0,
-      "title": "First post!",
-      "content" : "My first content!"
+      "name": "dsa",
+      "title": "dasd",
+      "desc": "sadsa",
+      "id": 5
+    },
+    {
+      "name": "dsa",
+      "title": "dasdsa",
+      "desc": "dsadsa",
+      "id": 6
     }
   ],
-  "comments" : [
-    {
-      "id": 0,
-      "content": "Wow such content!",
-      "username": "zero_cool"
-    }
-  ]
+  "comments": [],
+  "users": []
 }
